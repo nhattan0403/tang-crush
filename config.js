@@ -5,7 +5,7 @@ const CONFIG = {
     My đáng yêu`,
     btnIntro: 'Bấm vô nè',
     title: 'Anh yêu em 😙',
-    desc: 'Anh nhớ em, yêu anh khônggg ',
+    desc: 'Anh nhớ em, yêu anh khônggg',
     btnYes: 'Dạ yêuuuu <33',
     btnNo: 'Đéo yêu :3',
     question:'Yêu anh honggg <3',
